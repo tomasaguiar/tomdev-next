@@ -39,7 +39,7 @@ export function SocialSection() {
   };
 
   return (
-    <div className="fade-in animation-delay-4 flex flex-row justify-between space-x-14 md:absolute md:right-20 md:bottom-20 2xl:right-60">
+    <div className="fade-in animation-delay-4 flex flex-row justify-between space-x-8 md:absolute md:right-20 md:bottom-20 2xl:right-60">
       {Links.map((link) => {
         return (
           <SocialSectionButton

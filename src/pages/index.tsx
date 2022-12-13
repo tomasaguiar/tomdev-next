@@ -48,7 +48,7 @@ const Home: NextPage = () => {
               >
                 Aveiro.
               </a>{" "}
-              I&apos;m currently freelancing and developing Markdown-rs An
+              I&apos;m currently freelancing and developing Markdown-rs, an
               open-source cross-platform markdown editor written in Rust. I also
               love design and creating stunning interfaces for web and mobile.
               <br />
