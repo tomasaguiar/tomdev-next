@@ -57,10 +57,11 @@ const Home: NextPage = () => {
             <p className="mt-3 text-sm">
               Project enquiries:{" "}
               <a
-                href="mailto:hi@tomdev.me"
+                href="mailto:aguiarhcode@gmail.com"
                 className="underline transition-all hover:no-underline"
               >
-                hi@tomdev.me
+                aguiarhcode@gmail.com
+                {/* hi@tomdev.me */}
               </a>
             </p>
           </div>
