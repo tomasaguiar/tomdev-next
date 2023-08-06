@@ -10,7 +10,7 @@ const Home: NextPage = () => {
   const projects: Project[] = [
     {
       name: "markdown-rs",
-      href: "https://github.com/tomasaguiar/markdown-rs",
+      href: "https://markdownrs-landing.vercel.app",
       role: "Lead the entire development, also responsible for design.",
       description:
         "An open-source cross-platform markdown editor written in Rust.",
